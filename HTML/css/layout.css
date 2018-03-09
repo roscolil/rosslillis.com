@@ -336,7 +336,7 @@ fieldset[disabled] .btn-theme {
 /*------------------------------------------------------------------
   	[Service]
 ------------------------------------------------------------------*/
-.service {
+.service .service-element {
   background: #fff;
   padding: 30px;
 }
