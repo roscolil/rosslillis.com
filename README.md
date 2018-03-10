@@ -1,4 +1,4 @@
-# rosslillis.com
+## rosslillis.com
 Portfolio site
 
-Big thanks for KeenThemes for a great foundation to build my site on.
+Big thanks to KeenThemes for providing a great foundation to build my site on.
